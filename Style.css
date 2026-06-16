@@ -2,7 +2,7 @@ body{
 
 font-family:Arial;
 
-background:#f4f4f4;
+background:#c7535d;
 
 display:flex;
 
@@ -14,7 +14,7 @@ margin-top:50px;
 
 .contenedor{
 
-background:white;
+background:rgb(191, 201, 57);
 
 padding:30px;
 
